@@ -1,0 +1,39 @@
+#belingham {
+  font-size: large;
+}
+#vini {
+  color: rgb(0, 0, 255);
+}
+h1 {
+  color: rgba(18, 187, 234, 0.886);
+}
+
+body {
+  background-color: rgb(12, 247, 212);
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
